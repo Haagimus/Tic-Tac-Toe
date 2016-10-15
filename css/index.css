@@ -1,0 +1,73 @@
+#box {
+    width: 300px;
+    height: 300px;
+}
+
+input[type=button] {
+    width: 100px;
+    height: 100px;
+    border: none;
+    display: block;
+    float: left;
+    font-size: 5em;
+}
+
+input[type=button]:focus {
+    outline: none;
+}
+
+#btn1 {
+    border-right: 2px solid black;
+    border-bottom: 2px solid black;
+}
+
+#btn2 {
+  border-left: 2px solid black;
+  border-right: 2px solid black;
+  border-bottom: 2px solid black;
+}
+
+#btn3 {
+    border-left: 2px solid black;
+    border-bottom: 2px solid black;
+}
+
+#btn4 {
+  border-top: 2px solid black;
+  border-right: 2px solid black;
+  border-bottom: 2px solid black;
+}
+
+#btn5 {
+  border: 2px solid black;
+}
+
+#btn6 {
+  border-top: 2px solid black;
+  border-left: 2px solid black;
+  border-bottom: 2px solid black;
+}
+
+#btn7 {
+  border-top: 2px solid black;
+  border-right: 2px solid black;
+}
+
+#btn8 {
+  border-top: 2px solid black;
+  border-left: 2px solid black;
+  border-right: 2px solid black;
+}
+
+#btn9 {
+  border-top: 2px solid black;
+  border-left: 2px solid black;
+}
+
+#reset {
+    width: 300px;
+    font-size: 48pt;
+    text-align: center;
+    margin: none;
+    background: darkgrey;
+}
